@@ -750,9 +750,9 @@ body {
   transform: translate(-50%, -50%) scaleX(1);
   opacity: 1;
   transition-property: transform;
-  transition: 2500ms var(--timing-function);
+  transition: 250ms var(--timing-function);
   transition-property: opacity;
-  transition: 2500ms var(--timing-function);
+  transition: 250ms var(--timing-function);
 }
 
 .modal-window-button {
