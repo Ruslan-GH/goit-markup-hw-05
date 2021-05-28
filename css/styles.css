@@ -146,7 +146,7 @@ body {
   transition: 250ms var(--timing-function);
 }
 
-.menu-link::after {
+/* .menu-link::after {
   content: "";
   display: block;
   width: 100%;
@@ -161,7 +161,7 @@ body {
 
   transition-property: opacity;
   transition: 250ms var(--timing-function);
-}
+} */
 
 .menu-link:hover::after,
 .menu-link:focus::after {
